@@ -1,0 +1,19 @@
+[
+    {
+        "youtubeId": "szvt1vD0Uug",
+        "title": "Naa Ready",
+        "artists": [
+            {
+                "name": "Asal Kolaar",
+                "id": "UCeQwH00D8hF6R32OIBrW5AQ"
+            }
+        ],
+        "isExplicit": false,
+        "album": "130M views",
+        "thumbnailUrl": "https://i.ytimg.com/vi/szvt1vD0Uug/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kdDeShPE8IQtb8-qwQF9xNj-NzNA",
+        "duration": {
+            "label": "4:15",
+            "totalSeconds": 255
+        }
+    }
+]
